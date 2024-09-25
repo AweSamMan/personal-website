@@ -11,7 +11,7 @@
 
 <h1>Hello!</h1>
 <p>My name is Samuel Lee and I am a computer science student, who is the developer of this website.</p>
-<a href="claytonkruse.com">Claytonius</a>
+<a href="https://claytonkruse.com">Claytonius</a>
 
 <style>
 	section {
